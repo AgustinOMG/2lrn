@@ -1,4 +1,4 @@
-#plcStat 
+# plcStat 
 
 La funcionalidad principal de este programa es la obtencion de los parametros de de CPU y memoria del PLC,
 "Se considera que el PLC corre una version de LINUX, las pruebas seran realizadas en un PLC de la marca WAGO , Modelo 750 - 8206"
